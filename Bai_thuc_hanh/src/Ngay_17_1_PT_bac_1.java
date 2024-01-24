@@ -1,14 +1,11 @@
 import java.util.Scanner;
 
-public class giaiptbac1 {
-    /**
-     * @param args
-     */
-    public static void main(String[] args)  {
+public class Ngay_17_1_PT_bac_1 {
+        public static void main(String[] args)  {
         double a , b;
         double nghiempt;
         Scanner sc=new Scanner(System.in);
-        System.out.println(x:"Nhap a:");
+        System.out.println("Nhap a:");
         a = sc.nextDouble();
         System.out.println("Nhap b:");
         b=sc.nextDouble();
