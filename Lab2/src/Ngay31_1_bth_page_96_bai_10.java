@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Ngay31_1_bth_page_96_bai_10 {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhap chuoi khong qua 80 ki tu: ");
