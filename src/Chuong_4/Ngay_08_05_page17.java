@@ -1,6 +1,6 @@
 package Chuong_4;
 import java.util.ArrayList;
-public class TeenClass {
+public class Ngay_08_05_page17 {
     public static void main(String[] args) {
         ArrayList<String> arrayListStrings = new ArrayList<>();
         arrayListStrings.add("Java");

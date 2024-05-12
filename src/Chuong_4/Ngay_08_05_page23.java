@@ -1,7 +1,7 @@
 package Chuong_4;
 import java.util.ArrayList;
 import java.util.Scanner;
-public class Ngay_08-05_Page_23 {
+public class Ngay_08_05_page23 {
     public static void main(String[] args) {
         ArrayList<Integer> arrayListInteger= new ArrayList<>();
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,6 @@
 package Chuong_4;
 import java.util.ArrayList;
-public class For {
+public class Ngay_08_05_page18 {
     public static void main(String[] args) {
         ArrayList<Integer> arrListInterger = new ArrayList<>();
         arrListInterger.add(0);

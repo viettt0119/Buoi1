@@ -1,6 +1,6 @@
 package Chuong_4;
 import java.util.ArrayList;
-public class ArrList {
+public class Ngay_08_05_page22 {
     public static void main(String[] args) {
         ArrayList<String> colors = new ArrayList<String>(3);
         colors.add("Red");
