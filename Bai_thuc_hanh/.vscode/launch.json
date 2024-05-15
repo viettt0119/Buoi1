@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ngay_15_05_page70",
+      "request": "launch",
+      "mainClass": "Chuong_4.Ngay_15_05_page70",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Ngay_15_05_page86",
+      "request": "launch",
+      "mainClass": "Chuong_4.Ngay_15_05_page86",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Ngay_15_05_page60",
+      "request": "launch",
+      "mainClass": "Chuong_4.Ngay_15_05_page60",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Ngay_15_05_page54",
+      "request": "launch",
+      "mainClass": "Chuong_4.Ngay_15_05_page54",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Ngay_17_1_Pt_bac_2",
+      "request": "launch",
+      "mainClass": "Ngay_17_1_Pt_bac_2",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
