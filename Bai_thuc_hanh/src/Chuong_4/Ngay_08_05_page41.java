@@ -30,6 +30,7 @@ public class Ngay_08_05_page41 {
         String fistNode = linkedList.getFirst();
         String lastNode = linkedList.getLast();
         System.out.println("\n Phan tu dau tien trong danh sach la "+ fistNode+"; Phan tu cuoi trong danh sach la "+ lastNode);
+        sc.close();
         
     }
 }

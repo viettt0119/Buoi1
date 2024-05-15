@@ -23,7 +23,7 @@ public class Ngay_15_05_page60 {
 
         }else{
             System.out.println("Xoa khong thanh cong ");
-            for (String s : linkedHashSet){
+            for (String s: linkedHashSet){
                 System.out.println(str);
             }
 

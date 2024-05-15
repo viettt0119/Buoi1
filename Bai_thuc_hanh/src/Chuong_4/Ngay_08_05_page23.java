@@ -22,6 +22,7 @@ public class Ngay_08_05_page23 {
             }
         }
         System.out.println("Phan tu lon nhat la "+max);
+        scanner.close();
     }
     
 }

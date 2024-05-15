@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class Ngay_15_05_page_88 {
+public class Ngay_15_05_page88 {
     public static void main(String[] args) {
         HashMap<String, String> hashMapCity = new HashMap<>();
 
