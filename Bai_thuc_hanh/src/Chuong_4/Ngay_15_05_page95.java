@@ -1,6 +1,6 @@
 package Chuong_4;
 import java.util.*;
-public class Ngay_08_05_page95 {
+public class Ngay_15_05_page95 {
     public static void main(String[] args) {
         // Khởi tạo LinkedHashMap
         LinkedHashMap<Integer, String> linkedHashMap = new LinkedHashMap<>();
